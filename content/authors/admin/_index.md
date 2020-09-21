@@ -1,6 +1,6 @@
 ---
 title: Filip Nenadić
-role: Professor of Artificial Intelligence
+role: PhD candidate
 avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
