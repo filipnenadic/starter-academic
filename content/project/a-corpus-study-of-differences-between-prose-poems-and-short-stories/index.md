@@ -9,7 +9,8 @@ authors:
   - ""
 tags:
   - LitRead
-external_link: corpus
+external_link: project/a-corpus-study-of-differences-between-prose-poems-and-short-stories/
+links: []
 image:
   filename: featured.jpg
   focal_point: Smart
