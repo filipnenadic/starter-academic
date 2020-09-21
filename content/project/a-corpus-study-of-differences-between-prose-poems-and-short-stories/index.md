@@ -6,10 +6,10 @@ summary: Wilde's prose poems are more similar to his short stories than to
 draft: false
 featured: false
 authors:
-  - Filip Nenadić
+  - ""
 tags:
   - LitRead
-external_link: filipnenadic.netlify.app
+external_link: corpus
 image:
   filename: featured.jpg
   focal_point: Smart
