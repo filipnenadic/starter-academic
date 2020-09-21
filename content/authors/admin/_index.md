@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: I am currently trying to finish my PhD at the University of Alberta.
+bio:
 interests:
   - Psycholinguistics
   - Literary reading
@@ -17,15 +17,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-   - icon: google-scholar
-     icon_pack: ai
-     link: https://scholar.google.com/citations?user=24IQw5UAAAAJ&hl=sr
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=24IQw5UAAAAJ&hl=sr
 education:
   courses:
     - course: PhD in Linguistics
