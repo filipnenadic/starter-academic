@@ -5,8 +5,6 @@ summary: Wilde's prose poems are more similar to his short stories than to
   Stein's prose poems
 draft: false
 featured: false
-authors:
-  - ""
 tags:
   - LitRead
 external_link: project/a-corpus-study-of-differences-between-prose-poems-and-short-stories/
