@@ -7,7 +7,6 @@ draft: false
 featured: false
 tags:
   - LitRead
-external_link: project/corpus/
 links: []
 image:
   filename: featured.jpg
