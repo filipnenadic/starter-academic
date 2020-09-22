@@ -6,9 +6,6 @@ draft: false
 featured: false
 tags:
   - LitRead
-categories:
-  - ""
-external_link: project/individual-differences-in-receptiveness-to-literature/
 image:
   filename: featured.jpg
   focal_point: Smart
