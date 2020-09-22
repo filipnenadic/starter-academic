@@ -7,7 +7,6 @@ draft: false
 featured: false
 tags:
   - LitRead
-external_link: asd
 image:
   filename: layout.png
   focal_point: Smart
