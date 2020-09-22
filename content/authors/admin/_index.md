@@ -24,7 +24,7 @@ education:
   courses:
     - course: PhD in Linguistics
       institution: University of Alberta
-      year: 2020
+      year: expected 2020
     - course: MA in Comparative Literature
       institution: University of Novi Sad
       year: 2015
