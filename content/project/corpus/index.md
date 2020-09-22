@@ -7,7 +7,7 @@ draft: false
 featured: false
 tags:
   - LitRead
-external_link: project/a-corpus-study-of-differences-between-prose-poems-and-short-stories/
+external_link: project/corpus/
 links: []
 image:
   filename: featured.jpg
