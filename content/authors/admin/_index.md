@@ -38,4 +38,4 @@ user_groups:
 ---
 I am currently trying to finish my PhD at the University of Alberta.
 
-This website is devoted to scientific projects I have worked on. They are separated by topic into four groups. The projects are briefly described, but please note that this description those not serve to replace the actual publication which I provide where available. I would also be happy to receive your e-mail asking for additional information.
+This website is devoted to scientific projects I have worked on. They are separated by topic and briefly described, but please note that this description does not serve to replace the actual publication. I would also be happy to receive your e-mail asking for additional information.
