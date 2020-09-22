@@ -7,15 +7,16 @@ draft: false
 featured: false
 tags:
   - LitRead
+external_link: asd
 links: []
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
-Prose poems are a very diffuse genre. They share characteristics with both short prose and poetry and can be very different in comparison to one another. One prose poem anthology (Clements-Dunham, 2009) categorizes them into as many as 24 categories, and claims that some belong to more than one category!
+Prose poems are a very diffuse genre. They share characteristics with both short prose and poetry and can be very different in comparison to one another. One prose poem anthology (Clements-Dunham, 2009) categorizes them into as many as 24 categories and claims that some belong to more than one category!
 
-In this case study, I wanted to test whether we can tell the difference between prose poems and short stories written by Oscar Wilde. I also included some prose poems by Gertrude Stein for comparison. The analysis was performed using the [Coh-Metrix](http://cohmetrix.com/) system, focusing on narativity, syntactic complexity, word concreteness, referential cohesion, and deep cohesion. Other text variables could have been chosen and if I were to continue working on this I would at least expand the set.
+In this case study, I wanted to test whether we can tell the difference between prose poems and short stories written by Oscar Wilde. I also included some prose poems by Gertrude Stein for comparison. The analysis was performed using the [Coh-Metrix system](https://psycnet.apa.org/record/2004-17311-004), focusing on narativity, syntactic complexity, word concreteness, referential cohesion, and deep cohesion. Other text variables could have been chosen and if I were to continue working on this I would at least expand the set.
 
 The figure you see above shows that Oscar Wilde writes his short stories and prose poems similarly. Gertrude Stein's prose poems are quite distinct in comparison. Basically, Wilde is Wilde is Wilde is Wilde, i.e., it is more about who the author was than whether they wrote a short story or a prose poem.
 
