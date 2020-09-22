@@ -7,7 +7,6 @@ draft: false
 featured: false
 tags:
   - LitRead
-external_link: asd
 links: []
 image:
   filename: featured.jpg
