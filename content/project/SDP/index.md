@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - LitRead
-external_link: project/subjective-experience-of-poetry/
+external_link: project/SDP/
 image:
   filename: featured.jpg
   focal_point: Smart
