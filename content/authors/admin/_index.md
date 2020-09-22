@@ -19,10 +19,7 @@ social:
     link: "#contact"
   - icon: google-scholar
     icon_pack: ai
-    link: www.rts.rs
-  - icon: envelope
-    icon_pack: fas
-    link: www.rts.rs
+    link: https://scholar.google.com/citations?user=24IQw5UAAAAJ&hl=sr
 education:
   courses:
     - course: PhD in Linguistics
