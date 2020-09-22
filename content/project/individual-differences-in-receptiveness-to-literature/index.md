@@ -4,8 +4,10 @@ date: 2020-09-22T07:49:12.617Z
 summary: Receptiveness to literature has little to do with literary expertise
 draft: false
 featured: false
-categories:
+tags:
   - LitRead
+categories:
+  - ""
 external_link: project/individual-differences-in-receptiveness-to-literature/
 image:
   filename: featured.jpg
