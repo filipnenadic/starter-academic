@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - LitRead
-external_link: project/sdp/
+external_link: https://www.sciencedirect.com/science/article/abs/pii/S0304422X18301529
 image:
   filename: featured.jpg
   focal_point: Smart
