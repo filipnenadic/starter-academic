@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - LitRead
-external_link: project/SDP/
+external_link: project/sdp/
 image:
   filename: featured.jpg
   focal_point: Smart
