@@ -6,7 +6,6 @@ draft: false
 featured: false
 tags:
   - SWR
-external_link: dfd
 image:
   filename: featured.jpg
   focal_point: Smart
