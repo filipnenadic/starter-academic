@@ -21,4 +21,4 @@ In this study, we tested several hundred people in Serbia using the [Big Five In
 
 We extracted three groups, as shown in the figure on top of the page (sorry if you cannot read Serbian). From left to right, they are the restrained, the unadapted, and the resilient. Different bars represent the five basic personality dimension from the Big Five Inventory. The restrained are average on all five dimensions. The unadapted have high Neuroticism, and low Extravarsion, Openness to experience, Agreeableness, Conscientiousness. The resilient are the mirror image of the unadapted. 
 
-We discuss the position of our typology to typologyies from other cultures in our [full publication available here.](http://primenjena.psihologija.ff.uns.ac.rs/index.php/pp/article/view/1319]) Only the abstract is in English, and the paper is in Serbian.
+We discuss the position of our typology to typologyies from other cultures in our [full publication available here.](http://primenjena.psihologija.ff.uns.ac.rs/index.php/pp/article/view/1319]) The paper is in Serbian, but there is an abstract in English.
