@@ -5,7 +5,7 @@ summary: There are three types of people (and you, because you are special)
 draft: false
 featured: false
 tags:
-  - Other
+  - Various
 image:
   filename: featured.jpg
   focal_point: Smart
