@@ -6,7 +6,6 @@ draft: false
 featured: false
 tags:
   - Other
-external_link: gh
 image:
   filename: featured.jpg
   focal_point: Smart
