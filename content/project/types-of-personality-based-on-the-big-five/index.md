@@ -6,11 +6,14 @@ draft: false
 featured: false
 tags:
   - Other
+external_link: df
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
+This project was done in collaboration with Milan Jordanov and [Petar Čolović](http://www.ff.uns.ac.rs/sr-lat/fakultet/zaposleni/prof-dr-petar-colovic-520).
+
 You have probably completed at least one of the many psychology questionnaires that are used in contemporary psychology. If you did and you liked it, or if you would want to learn more, check out this [awesome individual differences project.](https://sapa-project.org/)
 
 Questionnaires are usually built from theories that assume that all humans share a certain characteristic (agressiveness, empathy, openness to experience, extraversion, etc.) and only differ in *how much* of it they have. This is somewhat in contrast to the typological approaches that attempt to group people into types with similar profiles. One famous typology is the [Asendorpf-Robins-Caspi typology.](https://onlinelibrary.wiley.com/doi/abs/10.1002/per.448?casa_token=L2NWSPUAQzgAAAAA%3AtqR5PJkPwYhxHMNC9Q2QxCEFgm4w_mZ7O5ky5mKn52HbF7D8YXv3jjLS8dk5UjdRmQ61FUTtLEHcsBM)
