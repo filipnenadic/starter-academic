@@ -6,7 +6,6 @@ draft: false
 featured: false
 tags:
   - Other
-external_link: df
 image:
   filename: featured.jpg
   focal_point: Smart
