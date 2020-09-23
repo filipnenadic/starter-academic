@@ -7,6 +7,7 @@ draft: false
 featured: false
 tags:
   - LitRead
+external_link: hg
 image:
   filename: layout.png
   focal_point: Smart
@@ -14,11 +15,15 @@ image:
 ---
 This project was completed in collaboration with [Petar Milin](https://www.birmingham.ac.uk/staff/profiles/languages/milin-petar.aspx) and [Michael Ramscar](https://scholar.google.com/citations?hl=en&user=c-s96ooAAAAJ&view_op=list_works&sortby=pubdate).
 
-People read texts of different genres differently (see [here](https://psycnet.apa.org/record/1995-39571-001) or [here](https://www.sciencedirect.com/science/article/abs/pii/S0304422X98000114)), but how do we even make this initial genre decision about a text we approach? We investigated just how much genre decision depends on:
+People read texts of different genres differently (see [here](https://psycnet.apa.org/record/1995-39571-001) or [here](https://www.sciencedirect.com/science/article/abs/pii/S0304422X98000114)), but how do we even make this initial genre decision about a text we approach? Looking at the images above, which one would you say is a poem? And what if someone told you that the left text comes from a poetry anthology?
+
+We investigated just how much genre decision depends on:
 
 * objective text characteristics, namely text layout (prose versus verses and stanzas),
 * external or contextual information about the text, which was in our case text source (e.g., poetry anthology, a school reading book, newspapers),
 * previous experience the reader has with texts, expressed as expertise (students of literature versus STEM students).
+
+We also blurred the lines of the texts to make them illegibile. This way, the actual content of the texts will not be influencing a person's decision; all the information a reader has is about the layout of the text and its source.
 
 At the same time, we conducted computational simulations that simulated different experience with texts of different genres students of literature would have in comparison to STEM students.
 
