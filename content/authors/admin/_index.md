@@ -1,6 +1,6 @@
 ---
 title: Filip Nenadić
-role: PhD candidate
+#role: PhD
 avatar_filename: avatar.jpg
 organizations:
   - name: University of Alberta
@@ -24,7 +24,7 @@ education:
   courses:
     - course: PhD in Linguistics
       institution: University of Alberta
-      year: expected 2020
+      year: 2020
     - course: MA in Comparative Literature
       institution: University of Novi Sad
       year: 2015
@@ -36,6 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am currently trying to finish my PhD at the University of Alberta.
-
-This website is devoted to scientific projects I have worked on. They are separated by topic and briefly described, but please note that this description does not serve to replace the actual publication. I would also be happy to receive your e-mail asking for additional information.
+This website is devoted to completed scientific projects I have worked on. They are separated by topic and briefly described, but please note that this description does not serve to replace the actual publication. I would also be happy to receive your e-mail asking for additional information.
