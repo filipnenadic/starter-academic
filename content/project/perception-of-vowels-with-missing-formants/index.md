@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Text text text.
+This research was completed in collaboration with [Pamela Coulter](https://www.sac-oac.ca/pamela-coulter-msc-s-lpc), [Terrance M. Nearey](https://scholar.google.com/citations?user=CHYtdrMAAAAJ&hl=en) and [Michael Kiefte](https://www.dal.ca/faculty/health/scsd/faculty-staff/our-faculty/Michael-Kiefte.html).
