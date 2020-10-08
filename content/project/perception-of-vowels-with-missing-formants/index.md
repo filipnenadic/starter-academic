@@ -7,7 +7,6 @@ draft: false
 featured: false
 tags:
   - Various
-external_link: dsf
 image:
   filename: fig1.jpg
   focal_point: Smart
