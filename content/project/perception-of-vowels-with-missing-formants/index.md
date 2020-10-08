@@ -19,4 +19,8 @@ So, we created new synthetic vowels and these did feature formants with changing
 
 {{< audio src="/audio/ey_orig.wav" >}}
 
+{{< audio src="/audio/ey_nof1.wav" >}}
+
+{{< audio src="/audio/ey_nof2.wav" >}}
+
 The results showed that suppressing the first formant dramatically changes vowel perception in vowels that have a large change in the value of the first formant throughout its produciton. In English, these vowels are /[ɪ](https://enunciate.arts.ubc.ca/i/), [ɛ](https://enunciate.arts.ubc.ca/%c9%9b/), [oʊ](https://enunciate.arts.ubc.ca/o/), [eɪ](https://enunciate.arts.ubc.ca/e/)/. In other words, not having access to formant information would really impede vowel perception in everyday conversation, where vowels do have more substantial formant change as they unfold. You can read more about this in our [research article](https://asa.scitation.org/doi/10.1121/10.0002110).
