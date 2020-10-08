@@ -17,6 +17,8 @@ This research was completed in collaboration with [Pamela Coulter](https://www.s
 
 So, we created new synthetic vowels and these did feature formants with changing values over time. In fact, they were created to match the general production of vowels in Canadian English, taken from previous [research conducted by Nearey and Assmann](https://asa.scitation.org/doi/abs/10.1121/1.394433?casa_token=y2HsctvbDT4AAAAA:VWtrSGs0dHLyefZ8T1A3uR7wvmUs8R0A-SpF63Po-GofDJggc6BjzR5F5kDsCUnT_eTMG8qdB2yb). Listen to the sounds below, they are examples of vowel /[eɪ](https://enunciate.arts.ubc.ca/e/)/, like in the word "paint".
 
+Original synthesized vowel:
+
 {{< audio src="/audio/ey_orig.wav" >}}
 
 First formant suppressed:
