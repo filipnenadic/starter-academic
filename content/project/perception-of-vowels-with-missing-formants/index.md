@@ -15,7 +15,9 @@ image:
 ---
 This research was completed in collaboration with [Pamela Coulter](https://www.sac-oac.ca/pamela-coulter-msc-s-lpc), [Terrance M. Nearey](https://scholar.google.com/citations?user=CHYtdrMAAAAJ&hl=en), and [Michael Kiefte](https://www.dal.ca/faculty/health/scsd/faculty-staff/our-faculty/Michael-Kiefte.html).
 
-We synthesized vowels and suppressed either their first or the second formant, just like Ito and his associates did. You can see the effect of this suppression in images (b) and (c) above and you can also have a listen to an example vowel below. The first formant value in this example synthesized vowel was 500 Hz and the value of the second formant was 2000 Hz.
+However, a study conducted by Ito and associates showed that suppressing a formant – and you can see the effect of first formant suppression in image (b) and and the effect of second formant suppresion in image (c) above – barely had any effect on vowel categorization of synthesized Japanese vowels.
+
+Japanese only has five vowels and we thought that maybe suppressing a formant does not affect participant performance as much because there are so few options to choose from to begin with. We wanted to test this finding in English because it has a much larger vowel inventory. We synthesized vowels and suppressed either their first or the second formant, just like Ito and his associates did. You can also have a listen to an example vowel below. The first formant value in this example synthesized vowel was 500 Hz and the value of the second formant was 2000 Hz.  
 
 Original synthesized vowel:
 
