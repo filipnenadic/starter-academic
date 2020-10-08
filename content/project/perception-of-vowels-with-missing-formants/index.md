@@ -7,8 +7,9 @@ draft: false
 featured: false
 tags:
   - Various
+external_link: sd
 image:
-  filename: fig1.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
