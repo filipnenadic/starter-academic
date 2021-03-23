@@ -3,7 +3,7 @@ title: Filip Nenadić
 #role: PhD
 avatar_filename: avatar.jpg
 organizations:
-  - name: Faculty of Media and Communication, Singidunum University
+  - name: Faculty of Media and Communications, Singidunum University
     url: ""
 superuser: true
 authors:
