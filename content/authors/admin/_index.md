@@ -3,15 +3,16 @@ title: Filip Nenadić
 #role: PhD
 avatar_filename: avatar.jpg
 organizations:
-  - name: University of Alberta
+  - name: Faculty of Media and Communication, Singidunum University
     url: ""
 superuser: true
 authors:
   - admin
 bio:
 interests:
-  - Psycholinguistics
+  - Spoken word recognition
   - Literary reading
+  - Psycholinguistics
   - Individual differences
 social:
   - icon: envelope
