@@ -9,7 +9,7 @@ tags:
   - Various
 external_link: test
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
@@ -19,4 +19,4 @@ This research was completed in collaboration with [Petar Milin](https://www.birm
 
 
 
-You can read more about this in our [research article](https://benjamins.com/catalog/ml.20010.nen).
+You can read more about this in our upcoming [research article](https://benjamins.com/catalog/ml.20010.nen), or take a look at the pre-print available [here](https://psyarxiv.com/fb6p9/).
