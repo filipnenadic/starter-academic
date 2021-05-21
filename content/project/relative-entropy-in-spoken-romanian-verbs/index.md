@@ -21,14 +21,10 @@ Many words in an inflected language follow the same process of inflection, that 
 
 ![](re.png)
 
-These findings come primarily from visual lexical decision studies.
+These findings come primarily from visual lexical decision studies in which participants are presented with written words and made-up strings of letters and try to decide whether something is a word or not as quickly and as accurately as possible. However, spoken word recognition and reading are not quite one and the same. For example,
 
+For those and other reasons I do not mention here, we decided to test whether this effect can be replicated in an auditory lexical decision task. That is, we presented our participants with audio word recordings, rather than written words. We also tested the effect in a new language (Romanian) and used verbs and their different forms, rather than nouns as in the examples above. The effect of relative entropy in verbs was already recorded in a previous study, but in Serbian and with written words ([Filipović-Đurđević & Gatarić, 2018](http://scindeks.ceon.rs/article.aspx?query=ARTAU%26and%26isidora%2bgataric&page=0&sort=1&stype=0&backurl=%2fSearchResults.aspx%3fquery%3dARTAU%2526and%2526isidora%252bgataric%26page%3d0%26sort%3d1%26stype%3d0%26lang%3den&lang=en)).
 
-
-Spoken word recognition and reading are not quite one and the same. 
-
-We decided to test these findings in a new language (Romanian) and using spoken word recognition, so we administered an auditory lexical decision task, rather than a visual one.
-
-Our results show that ... 
+Our results also captured the relative entropy effect, as can be seen in the figure at the top of this page. The figure shows the effect for the time it takes participants to recognize whether the sound recording is a word of Romanian, but we found a similar effect for participant accuracy. If a verb has a distribution of relative frequencies of its forms that is much different than the class it belongs to, listeners make more errors (they are more prone to say that it is not a word) or they respond to the verb more slowly.
 
 You can read more about this in our upcoming [research article](https://benjamins.com/catalog/ml.20010.nen), or take a look at the pre-print available [here](https://psyarxiv.com/fb6p9/).
