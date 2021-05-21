@@ -15,11 +15,9 @@ image:
 ---
 This research was completed in collaboration with [Petar Milin](https://www.birmingham.ac.uk/staff/profiles/languages/milin-petar.aspx) and [Benjamin V. Tucker](https://sites.ualberta.ca/~bvtucker/index.html).
 
-Lingusits noticed that certain words in certain languages are 
+In certain languages, new forms of a word with slightly different meaning can be created by adding one of the standard set of so-called inflectional suffixes in that language. For example, the verb *work* can be made to fit a third person by adding an inflectional suffix *\-s* at the end to make *(he/she/it) works*. Languages like Serbian or Romanian belong to the group of inflected languages because they use this tool to create different forms of words a lot. In the image below, you can see that in Serbian as many as seven different suffixes can be attached to the base of the word *book* (knjiga) to create new word forms. For example, *knjigom* means *with the book*.  
 
 ![](re.png)
-
-
 
 Spoken word recognition and reading are not quite one and the same. 
 
