@@ -5,6 +5,8 @@ summary: Verbs with a more prototypical frequency distribution of their
   inflected forms are processed faster
 draft: false
 featured: false
+tags:
+  - Various
 external_link: test
 image:
   filename: featured
