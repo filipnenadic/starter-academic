@@ -13,3 +13,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+This research was completed in collaboration with [Petar Milin](https://www.birmingham.ac.uk/staff/profiles/languages/milin-petar.aspx) and [Benjamin V. Tucker](https://sites.ualberta.ca/~bvtucker/index.html).
+
+
+
+
+
+You can read more about this in our [research article](https://benjamins.com/catalog/ml.20010.nen).
