@@ -7,6 +7,7 @@ draft: false
 featured: false
 tags:
   - Various
+external_link: tt
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -48,4 +49,4 @@ Second formant suppressed:
 
 {{< audio src="/audio/ey_nof2.wav" >}}
 
-These results showed that suppressing the first formant dramatically changes vowel perception in vowels that have a large change in the value of the first formant throughout its produciton. In English, these vowels are /[ɪ](https://enunciate.arts.ubc.ca/i/), [ɛ](https://enunciate.arts.ubc.ca/%c9%9b/), [oʊ](https://enunciate.arts.ubc.ca/o/), [eɪ](https://enunciate.arts.ubc.ca/e/)/. Not having access to formant information would really impede vowel perception of these vowels in everyday conversation. It seems that formants are still the most imporant and robust cues to vowel identity, even though some laboratory conditions can enable the listener to use other spectral cues as well. You can read more about this in our [research article](https://asa.scitation.org/doi/10.1121/10.0002110).
+The results from the study using vowels with formant values changing over time showed that suppressing the first formant dramatically changes vowel perception in vowels that have a large change in the value of the first formant throughout its production. In English, these vowels are /[ɪ](https://enunciate.arts.ubc.ca/i/), [ɛ](https://enunciate.arts.ubc.ca/%c9%9b/), [oʊ](https://enunciate.arts.ubc.ca/o/), [eɪ](https://enunciate.arts.ubc.ca/e/)/. Not having access to formant information would really impede vowel perception of these vowels in everyday conversation. It seems that formants are still the most imporant and robust cues to vowel identity, even though some laboratory conditions can enable the listener to use other spectral cues as well. You can read more about this in our [research article](https://asa.scitation.org/doi/10.1121/10.0002110).
