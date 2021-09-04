@@ -7,7 +7,7 @@ draft: false
 featured: false
 tags:
   - Various
-external_link: deleteme
+external_link:
 image:
   filename: featured.png
   focal_point: Smart
