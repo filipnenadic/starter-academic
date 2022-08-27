@@ -22,14 +22,10 @@ As can be seen in the figure above, DIANA takes actual sound as input. It calcul
 
 This architecture enables us to generate model estimates of response latency and accuracy and compare them to decisions that human listeners make. We tested exactly that by comparing DIANA estimates to human data from the [Massive Auditory Lexical Decision](http://aphl.artsrn.ualberta.ca/?page_id=827) project, while presenting DIANA with the same word recordings that the human subjects heard.
 
-DIANA decides whether the input signal is a word or not by comparing activation levels in under two conditions. First, DIANA calculates the best possible activation obtained when the input signal is forced to activate one of the words in its lexicon (word activation). Second, DIANA calculates the best possible activation obtained when the input signal is not forced to align to any existing string of speech sounds (phone activation). 
+DIANA decides whether the input signal is a word or not by comparing activation levels in under two conditions. First, DIANA calculates the best possible activation obtained when the input signal is forced to activate one of the words in its lexicon (word activation). Second, DIANA calculates the best possible activation obtained when the input signal is not forced to align to any existing string of speech sounds (phone activation). If the input signal 
+
+DIANA estimates when a decision is made by 
 
  that I won't describe in detail here., but one of the more important thresholds states what the difference in activation between the leading candidate and the runner-up should be for the model to finally settle and say "without doubt" that the leading candidate is indeed the winner. 
 
-We simulated the lexical decision process by...
-
-We also simulated the response latency estimates by...
-
-
-
-A lot more detail is presented in a [freely available paper](https://doi.org/10.1177/00238309221111752) we published, with the [supplementary material available online](https://doi.org/10.7939/r3-jdpa-dn72). If you're interested, you should also look at this [publication](https://www.mdpi.com/2076-3425/12/5/681) about DIANA by ten Bosch, [Lou Boves](https://www.researchgate.net/profile/Lou-Boves-2), and [Mirjam Ernestus](https://mirjamernestus.nl/Ernestus/Home.php).
+A lot more detail is presented in a [freely available paper](https://doi.org/10.1177/00238309221111752) we published, with the [supplementary material available online](https://doi.org/10.7939/r3-jdpa-dn72). If you're interested, you should also look at this [publication](https://www.mdpi.com/2076-3425/12/5/681) about DIANA by Louis ten Bosch, [Lou Boves](https://www.researchgate.net/profile/Lou-Boves-2), and [Mirjam Ernestus](https://mirjamernestus.nl/Ernestus/Home.php).
