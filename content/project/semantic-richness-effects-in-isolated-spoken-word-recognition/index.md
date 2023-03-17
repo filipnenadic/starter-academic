@@ -5,6 +5,8 @@ summary: W﻿ord characteristics related to their meaning have a (humble) effect
   on their recognition even without context
 draft: false
 featured: false
+tags:
+  - MALD
 external_link: temp
 image:
   filename: featured.png
