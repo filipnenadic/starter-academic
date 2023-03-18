@@ -1,6 +1,7 @@
 ---
 title: Massive Auditory Lexical Decision database
 date: 2022-08-26T08:51:53.333Z
+summary: A very large auditory lexical decision study; lots of stimuli, lots of listeners
 draft: false
 featured: false
 tags:
