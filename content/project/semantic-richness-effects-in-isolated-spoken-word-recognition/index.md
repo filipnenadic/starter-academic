@@ -7,7 +7,7 @@ draft: false
 featured: false
 tags:
   - MALD
-external_link: temp
+external_link:
 image:
   filename: featured.png
   focal_point: Smart
