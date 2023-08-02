@@ -2,7 +2,8 @@
 title: Environmental awareness among Serbian ten-year-olds
 subtitle: ""
 date: 2023-08-02T18:02:35.196Z
-summary: It mostly depends on their individual characteristics and home environment
+summary: It mostly depends on their individual characteristics and home
+  environment, not their school
 draft: false
 featured: false
 tags:
