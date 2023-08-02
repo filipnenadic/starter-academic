@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-P﻿laceholder text.
+This research was completed in collaboration with [Jelena Stanišić](https://scholar.google.com/citations?user=yWZ6OFEAAAAJ&hl=sr&oi=ao) and [Slavica Maksić](https://scholar.google.com/citations?user=Bt3DWK4AAAAJ&hl=sr&oi=ao).
