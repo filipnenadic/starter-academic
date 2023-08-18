@@ -1,6 +1,5 @@
 ---
 title: Filip Nenadić
-#role: PhD
 avatar_filename: avatar.jpg
 organizations:
   - name: Faculty of Media and Communications, Singidunum University
@@ -8,7 +7,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio:
+bio: null
 interests:
   - Spoken word recognition
   - Literary reading
