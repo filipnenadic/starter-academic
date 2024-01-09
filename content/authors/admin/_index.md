@@ -2,14 +2,14 @@
 title: Filip Nenadić
 avatar_filename: avatar.jpg
 organizations:
-  - name: Faculty of Media and Communications, Singidunum University
+  - name: University of Potsdam
     url: ""
 superuser: true
 authors:
   - admin
 bio: null
 interests:
-  - Spoken word recognition
+  - Spoken word recognition and production
   - Literary reading
   - Psycholinguistics
   - Individual differences
