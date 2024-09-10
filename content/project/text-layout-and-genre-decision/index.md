@@ -30,4 +30,4 @@ In short, we found that all three factors influence genre decision. Most interes
 
 What does this all mean, then? In our view, this means that genres are learned and learned for a purpose. A person's "performance" when encountering a new text depends on the quality and quantity of their previous experiences with texts and reading and is adapted to fit their daily needs. Experts and non-experts responded differently because they had different experiences with texts previously and because their usual genre decision goals are not the same.
 
-You can find a lot more about the experiment as well as the conducted computational simulations in [this paper](https://benjamins.com/catalog/ssol.19020.mil) we published.
+If you want to know more about this, feel free to message me.
