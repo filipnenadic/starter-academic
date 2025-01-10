@@ -7,7 +7,7 @@ summary: TOSCA-A seems suitable to measure guilt and shame in three different
 draft: false
 featured: false
 tags:
-  - Various
+  - SWR
 external_link:
 image:
   filename: featured.png
