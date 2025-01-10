@@ -1,5 +1,5 @@
 ---
-title: "Measuring guilt and shame in "
+title: "Measuring guilt and shame in adolescents"
 date: 2025-01-10T10:27:34.991Z
 summary: TOSCA-A seems suitable to measure guilt and shame in three different
   age groups, but some further adjustments may be needed
