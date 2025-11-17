@@ -9,7 +9,7 @@ authors:
   - admin
 bio: null
 interests:
-  - Spoken word recognition and production
+  - Speech recognition and production
   - Literary reading
   - Psycholinguistics
   - Individual differences
