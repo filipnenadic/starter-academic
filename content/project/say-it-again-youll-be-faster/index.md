@@ -7,9 +7,12 @@ draft: false
 featured: false
 tags:
   - Production
-external_link: temp
+external_link:
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
+This project was done in collaboration with Julia Pantelmann, [Hyien Jeong](https://orcid.org/0000-0002-3490-7255), and [Audrey Bürki](https://scholar.google.com/citations?user=4mE6RYcAAAAJ&hl=sr&oi=ao).
+
+You can read more about this project in [this publication](https://doi.org/10.1016/j.cognition.2025.106316).
