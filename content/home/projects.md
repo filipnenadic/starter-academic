@@ -20,14 +20,6 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  
-  [[content.filter_button]]
-    name = "Computational modeling of auditory lexical decision"
-    tag = "SWR"
-
-  [[content.filter_button]]
-    name = "Massive auditory lexical decision"
-    tag = "MALD"
 
   [[content.filter_button]]
     name = "Language production"
@@ -40,6 +32,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "Various"
     tag = "Various"
+
+  [[content.filter_button]]
+    name = "Massive auditory lexical decision"
+    tag = "MALD"
+  
+  [[content.filter_button]]
+    name = "Computational modeling of auditory lexical decision"
+    tag = "SWR"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
